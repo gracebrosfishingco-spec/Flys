@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://gracebrosfishingco-spec.github.io/Flys/sitemap.xml

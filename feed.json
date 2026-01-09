@@ -1,0 +1,28 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Grace Bros Fishing Co.",
+    "description": "",
+    "home_page_url": "https://gracebrosfishingco-spec.github.io/Flys",
+    "feed_url": "https://gracebrosfishingco-spec.github.io/Flys/feed.json",
+    "user_comment": "",
+    "icon": "https://gracebrosfishingco-spec.github.io/Flys/media/website/IMG_3720.jpg",
+    "author": {
+        "name": "David Grace"
+    },
+    "items": [
+        {
+            "id": "https://gracebrosfishingco-spec.github.io/Flys/grace-bros-fishing-co.html",
+            "url": "https://gracebrosfishingco-spec.github.io/Flys/grace-bros-fishing-co.html",
+            "title": "Grace Bros Fishing Co.",
+            "summary": "Limited Edition Trout Flies Hand Tied in the Heart of SouthWest Virginia",
+            "content_html": "\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://gracebrosfishingco-spec.github.io/Flys/media/posts/1/0Q1B0172.jpg\" height=\"2400\" width=\"3600\" alt=\"\"  sizes=\"(max-width: 1920px) 100vw, 1920px\" srcset=\"https://gracebrosfishingco-spec.github.io/Flys/media/posts/1/responsive/0Q1B0172-xs.jpg 640w ,https://gracebrosfishingco-spec.github.io/Flys/media/posts/1/responsive/0Q1B0172-sm.jpg 768w ,https://gracebrosfishingco-spec.github.io/Flys/media/posts/1/responsive/0Q1B0172-md.jpg 1024w ,https://gracebrosfishingco-spec.github.io/Flys/media/posts/1/responsive/0Q1B0172-lg.jpg 1366w ,https://gracebrosfishingco-spec.github.io/Flys/media/posts/1/responsive/0Q1B0172-xl.jpg 1600w ,https://gracebrosfishingco-spec.github.io/Flys/media/posts/1/responsive/0Q1B0172-2xl.jpg 1920w\">\n      \n    </figure>\n\n  <p>\n    Limited Edition Trout Flies Hand Tied in the Heart of SouthWest Virginia\n  </p>\n\n  <p>\n    \n  </p>",
+            "author": {
+                "name": "David Grace"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-01-08T17:12:43-05:00",
+            "date_modified": "2026-01-08T23:05:30-05:00"
+        }
+    ]
+}
